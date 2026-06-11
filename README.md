@@ -88,35 +88,6 @@ Career Goal:
 
 ---
 
-## 📚 Current Learning Roadmap
-
-```text
-Linux
- ├─ File System
- ├─ Permissions
- ├─ Processes
- └─ Shell Scripting
-
-Networking
- ├─ TCP/IP
- ├─ DNS
- ├─ HTTP/HTTPS
- ├─ Routing
- └─ Packet Analysis
-
-Security
- ├─ Web Security
- ├─ OWASP Top 10
- ├─ Burp Suite
- ├─ Enumeration
- └─ Pentesting Methodology
-
-Programming
- ├─ C
- └─ Python
-```
----
-
 ## 💡 Philosophy
 
 ```bash
