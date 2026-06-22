@@ -88,17 +88,7 @@ Career Goal:
 
 ---
 
-## 💡 Philosophy
 
-```bash
-while(true)
-{
-    learn();
-    practice();
-    document();
-    improve();
-}
-```
 
 ---
 
