@@ -88,12 +88,3 @@ Career Goal:
 
 ---
 
-
-
----
-
-## 📫 Connect
-
-```bash
-echo "Always learning, always building."
-```
